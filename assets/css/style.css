@@ -501,7 +501,7 @@ ul {
 }
 
 .plan-price .amount {
-  font-size: 68px;
+  font-size: 200px;
   font-weight: 800;
   color: var(--blue-dk);
   line-height: 1;
